@@ -1,7 +1,7 @@
 {
   "name": "rmi-app",
   "version": "0.1.0",
-  "homepage": "https://rmi-nitt.github.io/",
+  "homepage": "https://Ritesh-Gandhi.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
